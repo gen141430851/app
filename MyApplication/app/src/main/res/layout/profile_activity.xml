@@ -33,7 +33,6 @@
         android:layout_height="70dp"
         android:src="@drawable/emojis"
         android:layout_below="@id/imgBanner"
-        android:layout_centerLeft="true"
         android:layout_marginLeft="30dp"
         android:layout_marginTop="-20dp"/>
 
@@ -43,7 +42,6 @@
         android:layout_height="40dp"
         android:src="@drawable/bday"
         android:layout_below="@id/lblName"
-        android:layout_centerLeft="true"
         android:layout_marginLeft="30dp"
         android:layout_marginTop="30dp"/>
 
@@ -66,7 +64,6 @@
         android:layout_height="40dp"
         android:src="@drawable/twitter"
         android:layout_below="@id/bday.png"
-        android:layout_centerLeft="true"
         android:layout_marginLeft="30dp"
         android:layout_marginTop="20dp"/>
 
@@ -89,7 +86,6 @@
         android:layout_height="40dp"
         android:src="@drawable/website"
         android:layout_below="@id/twitter.png"
-        android:layout_centerLeft="true"
         android:layout_marginLeft="30dp"
         android:layout_marginTop="20dp"/>
 
@@ -112,7 +108,6 @@
         android:layout_height="40dp"
         android:src="@drawable/location"
         android:layout_below="@id/website.png"
-        android:layout_centerLeft="true"
         android:layout_marginLeft="30dp"
         android:layout_marginTop="20dp"/>
 
